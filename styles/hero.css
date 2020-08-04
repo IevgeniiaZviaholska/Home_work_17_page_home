@@ -19,11 +19,11 @@
     text-decoration: none;
     color: black;
   }
-  .hero__container_start{
+  .hero__container-start{
     padding: 50px;
   }
   
-  .hero_image {
+  .hero-image {
     display: block;
     width: 100%;
     height: 100%;

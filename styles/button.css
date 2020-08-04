@@ -15,13 +15,13 @@
     vertical-align: middle;
     max-height: 50px;
   }
-  .button_primary,
-  .button_secondary {
+  .button-primary,
+  .button-secondary {
     background-color: #595cff;
     color: #fff;
     min-width: 200px;
   }
-  .button_secondary{
+  .button-secondary{
     background-color: #595cff;
     color: #fff;
     fill: white;
@@ -41,34 +41,33 @@
     margin-right: 6px;
     width: 20px;
     
-  }
-   
-  .button_outline_primary,
-  .button_outline_secondary {
+  }   
+  .button-outline-primary,
+  .button-outline-secondary {
     min-width: 138px;
     border: 1px solid #595cff;
     border-radius: 4px;
     color: black;
     background-color: transparent;
   }
-  .button_outline_secondary{
+  .button-outline-secondary{
     min-width: 200px;
   }
   
-  .button_outline_primary:hover,
-  .button_outline_secondary:hover {
+  .button-outline-primary:hover,
+  .button-outline-secondary:hover {
     background-color: #595cff;
     color: #fff;
     outline: none;
   }
   
-  .button_link:hover,
-  .button_link:focus,
-  .button_link:active {
+  .button-link:hover,
+  .button-link:focus,
+  .button-link:active {
     color: #595cff;
   }
   
-  .button_icon {
+  .button-icon {
     min-width: 0;
     width: 24px;
     height: 24px;

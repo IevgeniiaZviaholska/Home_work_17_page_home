@@ -55,11 +55,3 @@
   left: 20%;
   padding: 0 16px;
 }
-
-.product-card__hover--rounded-btn {
-  bottom: -20px !important;
-}
-
-.product-card__buttons--rounded-btn {
-  justify-content: flex-end;
-}
